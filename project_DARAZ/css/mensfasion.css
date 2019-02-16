@@ -1,0 +1,264 @@
+/************************
+        header_part
+*************************/
+#header_part{
+    background-color: #000000;
+}
+.menubar {
+    background: #000;
+    height: 40px;
+}
+.menubar ul{margin:0px;list-style:none;padding:0px;}
+.menubar ul li{
+    float:left;border-right:1px solid #060606;border-left:1px solid #080808;position:relative;
+}
+.menubar ul li:first-child{border-left:0px solid #060606;}
+.menubar ul li:last-child{border-right:0px solid #080808;}
+.menubar ul li a {
+    background: #000;
+    padding: 10px;
+    display: block;
+    overflow: hidden;
+    text-decoration: none;
+    color: white;
+}
+.menubar ul li a:hover{background:#ffffff;color:#000000;}
+.menubar ul li a i {
+    padding: 0px 0px 8px 12px;
+}
+/*Drop Down*/
+.menubar ul li ul{position:absolute;left:-99999999999999px;}
+.menubar ul li:hover ul{left:0px;}
+.menubar ul li ul li{float:none;border-top:1px solid #006000;border-bottom:1px solid #004935;
+position:relative;border-right:0px solid #006000;border-left:0px solid #006000;}
+.menubar ul li ul li:first-child{border-top:0px solid #006000;}
+.menubar ul li ul li:last-child{border-bottom:0px solid #006000;}
+.menubar ul li ul li a{background:#005000;padding:10px;  display: block;
+    overflow: hidden;
+    text-decoration: none;
+    color: white;width: 111px;}
+
+.menubar ul li ul li a:hover{background:#6B3900;color:FFCDCD;}
+/************************
+        mens
+*************************/
+.borderleft {
+    border-right: 12px solid #fff;
+}
+.mens{}
+.mens_img{}
+.mens_img img {
+    width: 585px;
+}
+
+
+/******************************
+         fasoinall
+*****************************/
+
+.fasion{}
+.fasion_img{}
+.fasion_img img{}
+/******************************
+         sob-categoryall
+*****************************/
+#sob-categoryall{
+    
+}
+.sob-content{}
+.sbcontent h2 {
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-align: center;
+    color: #333333;
+    font-size: 32px;
+}
+.sob-category{}
+.sob-category img {
+    padding-top: 20px;
+}
+/****************
+    topbrandsall
+*******************/
+#topbrandsall{}
+.top-content{}
+.top-content h2{}
+.top-brands img {
+    padding-top: 8px;
+}
+
+/***********************
+        panjabisall
+***************************/
+#panjabisall{}
+.panjabiactive {
+    padding-top: 30px;
+}
+.panjabis{}
+.panjabiimg{}
+.panjabiimg img{}
+.panjabi-content{
+    margin-top: 10px;
+}
+.brand-name {
+    color: #404040;
+    font-size: 12px;
+    font-weight: bold;
+}
+.underline-pan {
+    border-top: 1px solid #DDDDDD;
+    width: 224px;
+    padding-top: 8px;
+    margin-top: 4px;
+}
+.title-name {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+}
+.price-box {
+    padding-top: 8px;
+}
+.price {
+    color: #000;
+    font-weight: 500;
+}
+.price{}
+.sale-flag-percent {
+    color: #F68B1E;
+    font-weight: bold;
+    border: 2px solid #F68B1E;
+    padding: 0px 17px 0px 20px;
+    margin-left: 84px;
+}
+.underlinepanjabi {
+    border-top: 1px solid #DDDDDD;
+    margin-top: 30px;
+    padding: 6px;
+    text-align: center;
+}
+.underlinepanjabi span {
+    background-color: #DDDDDD;
+    width: 634px;
+    height: 89px;
+    color: #000;
+    font-size: 12px;
+    font-weight: bolder;
+    padding: 10px 55px 10px 55px;
+}
+.owl-nav {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 36%;
+    width: 100%;
+    font-size: 29px;
+}
+.owl-next{
+    float: right;
+}
+
+ul.clothes li{
+    list-style: outside;
+}
+
+/***************
+     onlinefashion
+******************/
+.online-content{}
+.online-content h2 {
+    color: #333333;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.online-content h3 {
+    color: #333333;
+    font-weight: 500;
+}
+.online-content p {
+    color: #5e5e5e;
+    font-weight: 700;
+}
+ul.clothes {
+    padding: 0px;
+    margin-left: 22px;
+}
+ul.clothes li {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px 0px 24px 12px;
+}
+ul.clothes p{}
+.blockqouteonline {
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+/***************
+    womens-feasiion
+****************/
+
+.daraz-sript{}
+.sript-img {
+    padding-top: 20px;
+}
+.daraz-img img{}
+
+/******************
+    phone-tablet
+***********************/
+#top-barndsall{
+    
+}
+.top-brand-text{}
+.top-brand-text h2{
+    
+}
+.cat-2 {
+    
+}
+.phone-menu {
+    margin-top: 14px;
+    margin-left: -10px;
+}
+ul.cat-2 {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ul.cat-2 li {
+    padding: 9px 0px 6px 6px;
+    border-bottom: 1px solid #E3E3E4;
+    width: 272px;
+}
+ul.cat-2 li a {
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+}
+ul.cat-2 li a:hover{
+    color: #FAA8AB;
+}
+ul.cat-2 li:after {
+    color: #a2a2a3;
+    float: right;
+    content: ">";
+    font-weight: 400;
+    font-size: 14px;
+    margin: 2px 4px 0px 0px;
+}
+
+/*******************
+        home-living
+************************/
+ul.also-offer {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ul.also-offer li {
+    padding: 0px 0px 8px 2px;
+}
+ul.also-offer li a{}

@@ -1,0 +1,205 @@
+@media screen and (min-width: 940px) and (max-width: 1024px) {
+    
+    .header-search-input {
+    max-width: 324px;
+    border-radius: 0;
+    max-height: 36px;
+    background-color: #F5F5F5;
+    border: 0;
+    box-shadow: 0;
+}
+    
+   
+.actionsall {
+    margin-left: -112px !important;
+}
+    
+    #card-desktopall {
+    background-color: #FBFBFB;
+    margin-left: -32px !important;
+    max-width: 175px;
+}
+    
+.payment {
+    font-size: 8px !important;
+    font-weight: 600;
+    color: #656565;
+} 
+
+.card-desktop img {
+    max-width: 47px;
+    margin: -2px -5px -10px -24px !important;
+}  
+
+    .safe {
+    margin: 0px 0px 0px 24px !important;
+    font-size: 9px !important;
+}
+    .dawnload img {
+    max-width: 160px;
+    max-height: 196px;
+}
+    .slide {
+    max-width: 618px;
+}
+.dawnload {
+    margin-top: 60px !important;
+}
+  
+    .menu ul li a i {
+    color: #DDDDDD;
+    position: absolute;
+    right: -28px !important;
+}
+    .slide-aective {
+    padding-left: 20px !important;
+}
+    #singupfromall {
+    margin-top: 20px;
+    padding-left: 35px !important;
+}
+    .buttonright {
+    float: right !important;
+    margin-right: 120px !important;
+    width: 134px;
+    height: 32px;
+    margin-top: -31px !important;
+}
+    
+   .header-search-submit {
+    float: right;
+    background-color: #FA9B13;
+    border-radius: 0;
+    max-width: 100px;
+    max-height: 36px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: -36px 112px !important;
+}
+    .buttonleft {
+    float: right;
+    margin-right: 0px !important;
+    max-width: 134px;
+    height: 32px;
+    margin-top: -30px !important;
+}
+   .buttonright {
+    float: right;
+    margin-right: 148px !important;
+    width: 134px;
+    height: 32px;
+    margin-top: -30px !important;
+}
+    .singupfrom {
+    border: 1px solid #B3B3B3;
+    margin-left: 60px;
+    max-width: 378px;
+}   
+    .youremail {
+    padding-left: 36px !important;
+}
+    
+  .slide-aective, .item img {
+    padding-right: 17px !important;
+}  
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px){
+    .header-search-input {
+    max-width: 348px;
+    border-radius: 0;
+    height: 42px;
+    background-color: #F5F5F5;
+    border: 0;
+    box-shadow: 0;
+}
+    .header-search-submit {
+    float: right;
+    border: 0;
+    background-color: #FA9B13;
+    border-radius: 0;
+    max-width: 100px;
+    max-height: 45px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: -42px 88px !important;
+}
+ #bfem-container {
+    max-width: 940px;
+    margin-left: 112px !important;
+}
+    .barnds_img1 img {
+    max-width: 162px;
+    margin-top: 41px !important;
+}
+    nav.tabs_list ul li a {
+    font-size: 10px !important;
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration: none;
+}
+    nav.tabs_list {
+    background-color: #FFFFFF;
+    height: 40px;
+    max-width: 529px;
+}
+   ul.brands1 {
+    max-width: 646px;
+    border: 1px solid #DDDDDD;
+    overflow: hidden;
+    background-color: #fff;
+    max-height: 263px;
+}
+    ul.brands1 li img {
+    max-width: 80px;
+    height: 80px;
+}
+    .barnds_img1 img {
+    max-width: 336px;
+    margin-top: 41px !important;
+    margin-left: -29px !important;
+}
+    
+    .actionsall {
+    margin-left: -80px !important;
+}
+    #card-desktopall {
+    background-color: #FBFBFB;
+    margin-left: -35px !important;
+    max-width: 194px;
+}
+    .item img {
+    display: block;
+    height: 380px;
+    max-width: 598px;
+    margin-left: 10px !important;
+}
+    .menu ul li a i {
+    color: #DDDDDD;
+    position: absolute;
+    right: -36px !important;
+}
+    .slide-aective {
+    padding-left: 20px !important;
+}
+    
+    .slide-aective, .item img {
+    width: 582px;
+}
+    .card-desktop img {
+    width: 50px;
+    margin: -2px -2px -12px -25px !important;
+}
+    .dawnload img {
+    max-width: 180px;
+    max-height: 145px;    
+}
+    .slide-aective, .item img {
+    padding-right: 17px !important;
+}
+}
